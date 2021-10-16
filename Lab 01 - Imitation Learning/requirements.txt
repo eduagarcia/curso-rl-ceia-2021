@@ -1,0 +1,6 @@
+cloudpickle
+gym[all]
+gym[box2d]
+pyglet
+pyvirtualdisplay
+plotly
